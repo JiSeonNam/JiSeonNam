@@ -4,9 +4,9 @@
 33살에 개발자 교육을 이수하고, 2년간 스타트업 서비스기획자로 근무한 남지선입니다
 
 <h3>💻사이드 프로젝트</h3>
-2번의 사이드 프로젝트를 통해, 기획부터 개발부터 팀프로젝트를 진행한 경험이 있습니다
-<a href="https://github.com/JiSeonNam/fivestar">오성티켓(공연예매사이트)</a>
-<a href="https://github.com/JiSeonNam/bom">다시:(제로웨이스트 쇼핑몰)</a>
+2번의 사이드 프로젝트를 통해, 기획부터 개발부터 팀프로젝트를 진행한 경험이 있습니다<br>
+<a href="https://github.com/JiSeonNam/fivestar">- 오성티켓(공연예매사이트)</a><br>
+<a href="https://github.com/JiSeonNam/bom">- 다시:(제로웨이스트 쇼핑몰)</a><br>
 
 <h3>🤗목표</h3>
 개발 지식을 기반으로 개발, 디자인, 사업기획에 대한 이해도를 높이는 게 목표입니다<br>
